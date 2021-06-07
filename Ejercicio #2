@@ -1,0 +1,10 @@
+Ejercicio #2
+
+Algoritmo ingresandoValoresN
+	Escribir 'Ingrese la cantidad necesitada: '
+	leer N;
+	Para i<-N Hasta 1 Con Paso -1 Hacer
+		Escribir 'Valores compredidos entre ',N,' y ',' 1 ',' es: ',i
+	Fin Para
+	
+FinAlgoritmo
